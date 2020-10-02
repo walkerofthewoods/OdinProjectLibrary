@@ -1,0 +1,9 @@
+div {
+    border: 1px solid  rgb(180, 114, 52);
+    padding: 3px;
+    margin-bottom: 3px;
+}
+
+body {
+    background-color: wheat;
+}
